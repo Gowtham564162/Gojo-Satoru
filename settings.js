@@ -19,7 +19,7 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['6374025999']
+global.owner = ['6374025998']
 global.premium = ['6374025998']
 global.ownernomer = '6374025998'
 global.ownername = 'Gowtham'
